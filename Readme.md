@@ -1,6 +1,6 @@
-# adventure with the golang
+# Adventure with the golang
 
-### sharing and learning with the Golang programming language
+### Sharing and learning with the Golang programming language
 
 ## Get To setup Go in Your Computer
 
