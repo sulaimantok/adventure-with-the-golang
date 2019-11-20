@@ -13,7 +13,7 @@ func main() {
 		fallthrough
 	case 2:
 		fmt.Println("is <= 2")
-		fallthrough
+		fallthroug
 	case 3:
 		fmt.Println("is <= 3")
 		fallthrough
