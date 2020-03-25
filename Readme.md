@@ -3,8 +3,11 @@
 ### Sharing and learning with the Golang programming language
 
 ## Get To setup Go in Your Computer
+- [OSX](#osx)
+- [Windows](#windows)
+- [Linux](#linux)
 
-### 1. OSX
+### OSX
 #### Using Homebrew 
 	```
 	$ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
@@ -25,12 +28,14 @@
 	```
 	$ brew install hg bzr
 	```
-### 2. Windows
+### Windows
+
 #### Installer
 You can download installer in this site [installer](https://golang.org/dl/)
 #### Official Resource
 besides the installer file, you can using file in [Official resource for Windows ](https://golang.org/doc/install#windows) to install Go
-### 3. Linux
+
+### Linux
 #### Official Package
 Install Go from one of the [Official linux Package](https://golang.org/dl/)
 For setup the path same with OSX
